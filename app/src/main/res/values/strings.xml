@@ -1,0 +1,9 @@
+<resources>
+    <string name="edit_message">Enter a food</string>
+    <string name="app_name">Food RDM</string>
+    <string name="button_replace">DEL</string>
+    <string name="button_send">ADD</string>
+    <string name="button_random">RANDOMIZE</string>
+    <string name="button_new">NEW</string>
+    <string name="text_message">Food List:</string>
+</resources>
